@@ -8,7 +8,8 @@ A CRUD Server has the following options to alter or change the database:
 - DELETE
 - POST
 
-
+## Dependency
+Requires the Postman desktop app
 ## Setting in Postman
 Create a new folder with some name and add the following request
 
